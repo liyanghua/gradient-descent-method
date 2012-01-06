@@ -1,0 +1,10 @@
+please refer to http://www.zhizhihu.com/html/y2011/3632.html
+for more details about gradient descent.
+
+How to run?
+
+cd Path_to_gd/
+make
+./gd heart_scale
+
+
